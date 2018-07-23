@@ -1,6 +1,4 @@
-package guru.springframework.domain;
-
-import org.hibernate.annotations.LazyToOne;
+package guru.springframework.models;
 
 import javax.persistence.*;
 
